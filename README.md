@@ -11,3 +11,6 @@
 
 ## Execucao
 * Para executar o programa, basta rodar o script. Certifique-se de ter as bibliotecas tkinter e matplotlib instaladas no ambiente Python.
+
+## VIDEO:
+https://youtu.be/qwIlxI9cmWs
